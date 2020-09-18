@@ -22,7 +22,7 @@ We write a monthly case report in [BMJ Evidence Based Medicine](https://ebm.bmj.
 ## Contributors 
 * [Georgia Richards](https://www.phc.ox.ac.uk/team/georgia-richards) - lead & primary contributor
 * [Nick DeVito](https://www.phc.ox.ac.uk/team/nicholas-devito) 
-* [Carl Heneghan](https://www.phc.ox.ac.uk/team/carl-heneghan) & [Jeffrey Aronson](https://www.phc.ox.ac.uk/team/jeffrey-aronson) - the [Centre for Evidence-Based Medicine](https://www.cebm.ox.ac.uk/) 
-* [Ben Goldacre](https://www.phc.ox.ac.uk/team/ben-goldacre) - the [EBM DataLab](https://ebmdatalab.net/)
+* [The Centre for Evidence-Based Medicine](https://www.cebm.ox.ac.uk/): [Carl Heneghan](https://www.phc.ox.ac.uk/team/carl-heneghan) & [Jeffrey Aronson](https://www.phc.ox.ac.uk/team/jeffrey-aronson)
+* [The EBM DataLab](https://ebmdatalab.net/): [Ben Goldacre](https://www.phc.ox.ac.uk/team/ben-goldacre)
 * [Robin Ferner](https://www.birmingham.ac.uk/staff/profiles/clinical-sciences/Ferner-Robin.aspx) 
 * [Anthony Cox](http://anthonycox.org/about/)

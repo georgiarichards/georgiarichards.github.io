@@ -20,7 +20,7 @@ We wrote about the web scrape to collect the data in *Nature* available here: ["
 We write a monthly case report in [BMJ Evidence Based Medicine](https://ebm.bmj.com/) to highlight key lessons to prevent serious non-fatal and fatal harms.
 
 ## Contributors 
-* [Georgia Richards](https://www.phc.ox.ac.uk/team/georgia-richards) - lead & primary contributor
+* [Georgia Richards](https://www.phc.ox.ac.uk/team/georgia-richards) 
 * [Nick DeVito](https://www.phc.ox.ac.uk/team/nicholas-devito) 
 * [The Centre for Evidence-Based Medicine](https://www.cebm.ox.ac.uk/): [Carl Heneghan](https://www.phc.ox.ac.uk/team/carl-heneghan) & [Jeffrey Aronson](https://www.phc.ox.ac.uk/team/jeffrey-aronson)
 * [The EBM DataLab](https://ebmdatalab.net/): [Ben Goldacre](https://www.phc.ox.ac.uk/team/ben-goldacre)

@@ -6,7 +6,7 @@ This repository contains the code and data for running the Preventable Deaths Tr
 
 The data is taken from: https://www.judiciary.uk/subject/prevention-of-future-deaths/ 
 
-To capture the data, we run a web scraper which is available in the `notebooks` folder. 
+To capture the data, we run a web scraper which is available in the `data` folder. 
 
 The names of the deceased have been processed by Georgia Richards due to the sensitive nature of the data.  
 

@@ -81,9 +81,10 @@
 			}
 			
 			function format_name(name){
-				var string = name;
-				var first_letters = string.match(/\b(\w)/g);
-				return first_letters.join('');
+				if (name)
+					return name.match(/\b(\w)/g).join('');
+				else
+					return "";
 			}
 
 			CsvToHtmlTable.init({

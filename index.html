@@ -63,7 +63,7 @@
 
 
 		<!-- Bootstrap core JavaScript
-		================================================== -->
+		================================================== -->}
 		<!-- Placed at the end of the document so the pages load faster -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -79,6 +79,12 @@
 				else
 					return "";
 			}
+			
+			function format_name(name){
+				var string = name;
+				var first_letters = string.match(/\b(\w)/g);
+				return first_letters.join('');
+			}
 
 			CsvToHtmlTable.init({
 			csv_path: 'data/death_info_2020-08-14.csv',
@@ -86,7 +92,7 @@
 			allow_download: true,
 			csv_options: {separator: ',', delimiter: '"'},
 			datatables_options: {"paging": true},
-			custom_formatting: [[7, format_link]]
+			custom_formatting: [[7, format_link], [2, format_name]]
 			});
 		</script>
 	</body>

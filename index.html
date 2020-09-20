@@ -72,13 +72,6 @@
 				else
 					return "";
 			}
-			
-			function format_name(name){
-				if (name)
-					return name.match(/\b(\w)/g).join('');
-				else
-					return "";
-			}
 
 			CsvToHtmlTable.init({
 			csv_path: 'data/death_info_2020-09-19_processed.csv',
@@ -86,7 +79,7 @@
 			allow_download: true,
 			csv_options: {separator: ',', delimiter: '"'},
 			datatables_options: {"paging": true},
-			custom_formatting: [[7, format_link], [2, format_name]]
+			custom_formatting: [[8, format_link], 
 			});
 		</script>
 	</body>

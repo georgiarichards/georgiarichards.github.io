@@ -15,7 +15,7 @@ The names of the deceased have been processed by Georgia Richards due to the sen
 
 We are working on a number of research projects with this data including an analysis of deaths from opioids, suicides and cardiovascular events.
 
-We wrote about the web scrape to collect the data in *Nature* available here: ["How we learnt to stop worrying and low web scraping"](https://www.nature.com/articles/d41586-020-02558-0)
+We wrote about the web scrape to collect the data in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0)
 
 We write a monthly case report in [BMJ Evidence Based Medicine](https://ebm.bmj.com/) to highlight key lessons to prevent serious non-fatal and fatal harms.
 

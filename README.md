@@ -24,7 +24,10 @@ Our first case report was published on December 01, 2020: [Alcohol-based hand sa
 ## Contributors 
 * [Georgia Richards](https://www.phc.ox.ac.uk/team/georgia-richards) 
 * [Nick DeVito](https://www.phc.ox.ac.uk/team/nicholas-devito) 
-* [The Centre for Evidence-Based Medicine](https://www.cebm.ox.ac.uk/): [Carl Heneghan](https://www.phc.ox.ac.uk/team/carl-heneghan) & [Jeffrey Aronson](https://www.phc.ox.ac.uk/team/jeffrey-aronson)
-* [The EBM DataLab](https://ebmdatalab.net/): [Ben Goldacre](https://www.phc.ox.ac.uk/team/ben-goldacre)
+* [Centre for Evidence-Based Medicine](https://www.cebm.ox.ac.uk/): [Carl Heneghan](https://www.phc.ox.ac.uk/team/carl-heneghan) & [Jeffrey Aronson](https://www.phc.ox.ac.uk/team/jeffrey-aronson)
+* [EBM DataLab](https://ebmdatalab.net/): [Ben Goldacre](https://www.phc.ox.ac.uk/team/ben-goldacre)
 * [Robin Ferner](https://www.birmingham.ac.uk/staff/profiles/clinical-sciences/Ferner-Robin.aspx) 
 * [Anthony Cox](http://anthonycox.org/about/)
+
+## Funders
+* [NIHR SPCR](https://www.spcr.nihr.ac.uk/) Engagement & Dissemination Grant to develop the website 

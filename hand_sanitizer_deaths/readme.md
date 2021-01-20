@@ -1,4 +1,4 @@
-# Poisonings from alcohol-based hand sanitizers in the UK, 2019 and 2020
+# Poisonings from alcohol-based hand sanitizers in England 2019 vs 2020
 
 This folder contains: 
 * data obtained from the National Poisons Information Service (NPIS) through a Freedom of Information request to Public Health England (PHE) available <a href="https://www.whatdotheyknow.com/request/poisoning_from_alcohol_based_han#incoming-1653387" target="_blank">here</a>;

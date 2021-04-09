@@ -4,7 +4,7 @@ This repository contains the code and data for running the Preventable Deaths Tr
 
 ## Data
 
-The data is taken from: https://www.judiciary.uk/subject/prevention-of-future-deaths/ 
+The data is taken from the [Courts and Tribunals Judiciary website](https://www.judiciary.uk/subject/prevention-of-future-deaths/)
 
 To capture the data, we run a web scraper which is available in the `data` folder. 
 
@@ -17,9 +17,11 @@ We are working on a number of research projects with this data including an anal
 
 We wrote about the data collection method, web scraping, in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0)
 
-We wrote an editorial in BMJ Evidence Based Medicine to launch the series, [Coroners' Concerns to Prevent Harms](https://ebm.bmj.com/content/early/2021/01/10/bmjebm-2020-111567), which will share a case report each month from the database to highlight key lessons to prevent serious non-fatal and fatal harms. 
+We wrote an editorial in BMJ Evidence Based Medicine to launch the series, [Coroners' Concerns to Prevent Harms](https://ebm.bmj.com/content/early/2021/01/10/bmjebm-2020-111567), which will share a case report each month from the database to highlight key lessons to prevent serious non-fatal and fatal harms. The published articles in the series, include:
+* harms from ingesting [alcohol-based hand sanisiter](https://ebm.bmj.com/content/26/2/65)
+* harms from undiagnosed and untreated adverse drug reactions from [diclofenac in adolescents](https://ebm.bmj.com/content/early/2021/02/09/bmjebm-2020-111640)
+* harms from [repeated prescriptions of tramadol](https://ebm.bmj.com/content/early/2021/03/11/bmjebm-2020-111661)
 
-Our first case report was published on December 01, 2020: [Alcohol-based hand sanitisers: a warning to mitigate future poisonings and deaths](https://ebm.bmj.com/content/early/2020/12/02/bmjebm-2020-111568)
 
 ## Contributors 
 * [Georgia Richards](https://www.phc.ox.ac.uk/team/georgia-richards) 

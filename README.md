@@ -13,7 +13,7 @@ The names of the deceased have been processed by Georgia Richards due to the sen
 
 ## Research & dissemination 
 
-We are working on a number of research projects with this data including an analysis of deaths from opioids, suicides and cardiovascular events.
+We are working on a number of research projects with this data including an analysis of deaths from [SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2021.07.15.21260589v1), [opioids](https://osf.io/ecz4r/), [suicides](https://osf.io/ad4up/), and [anticoagulants and cardiovascular disease](https://www.medrxiv.org/content/10.1101/2021.04.28.21256272v1).
 
 We wrote about the data collection method, web scraping, in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0)
 

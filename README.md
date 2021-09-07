@@ -1,6 +1,6 @@
-# Preventable Deaths Tracker
+# Preventable Deaths Database and Tracker
 
-This repository contains the code and data for running the Preventable Deaths Tracker: http://preventabledeathstracker.net
+This repository contains the code and data for running the [Preventable Deaths Tracker](http://preventabledeathstracker.net)
 
 ## Data
 
@@ -8,19 +8,20 @@ The data is taken from the [Courts and Tribunals Judiciary website](https://www.
 
 To capture the data, we run a web scraper which is available in the `data` folder. 
 
-The names of the deceased have been processed by Georgia Richards due to the sensitive nature of the data.  
+We have processed the names of the deceased due to the sensitive nature of the data.  
 
 
 ## Research & dissemination 
 
-We are working on a number of research projects with this data including an analysis of deaths from [SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2021.07.15.21260589v1), [opioids](https://osf.io/ecz4r/), [suicides](https://osf.io/ad4up/), and [anticoagulants and cardiovascular disease](https://www.medrxiv.org/content/10.1101/2021.04.28.21256272v1).
+We are working on a number of research projects with this data including an analysis of preventable deaths from [SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2021.07.15.21260589v1), [opioids](https://osf.io/ecz4r/), [suicides](https://osf.io/ad4up/), [anticoagulants and cardiovascular disease](https://www.medrxiv.org/content/10.1101/2021.04.28.21256272v2), and [cycling](https://secureservercdn.net/160.153.138.71/ipa.75a.myftpupload.com/wp-content/uploads/2021/09/GCHU-Report-Preventable-Deaths-involving-Cycling-in-England-and-Wales.pdf). 
 
 We wrote about the data collection method, web scraping, in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0)
 
-We wrote an editorial in BMJ Evidence Based Medicine to launch the series, [Coroners' Concerns to Prevent Harms](https://ebm.bmj.com/content/early/2021/01/10/bmjebm-2020-111567), which will share a case report each month from the database to highlight key lessons to prevent serious non-fatal and fatal harms. The published articles in the series, include:
+We wrote an editorial in BMJ Evidence Based Medicine to launch the series, [Coroners' Concerns to Prevent Harms](https://ebm.bmj.com/content/early/2021/01/10/bmjebm-2020-111567), which will share case reports from the database to highlight key lessons to prevent serious non-fatal and fatal harms. The published articles in the series, include:
 * harms from ingesting [alcohol-based hand sanisiter](https://ebm.bmj.com/content/26/2/65)
 * harms from undiagnosed and untreated adverse drug reactions from [diclofenac in adolescents](https://ebm.bmj.com/content/early/2021/02/09/bmjebm-2020-111640)
 * harms from [repeated prescriptions of tramadol](https://ebm.bmj.com/content/early/2021/03/11/bmjebm-2020-111661)
+* hazards of [emollient products](https://ebm.bmj.com/content/26/3/131.full) in the presence of naked flames
 
 
 ## Contributors 

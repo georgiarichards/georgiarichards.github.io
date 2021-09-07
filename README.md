@@ -13,7 +13,12 @@ We have processed the names of the deceased due to the sensitive nature of the d
 
 ## Research & dissemination 
 
-We are working on a number of research projects with this data including an analysis of preventable deaths from [SARS-CoV-2](https://www.medrxiv.org/content/10.1101/2021.07.15.21260589v1), [opioids](https://osf.io/ecz4r/), [suicides](https://osf.io/ad4up/), [anticoagulants and cardiovascular disease](https://www.medrxiv.org/content/10.1101/2021.04.28.21256272v2), and [cycling](https://secureservercdn.net/160.153.138.71/ipa.75a.myftpupload.com/wp-content/uploads/2021/09/GCHU-Report-Preventable-Deaths-involving-Cycling-in-England-and-Wales.pdf). 
+We are working on a number of research projects with this data, including:
+* deaths involving [anticoagulants and cardiovascular disease](https://www.medrxiv.org/content/10.1101/2021.04.28.21256272v2)
+* preventable deaths during the [covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2021.07.15.21260589v1)
+* preventable deaths involving [cyclists](https://secureservercdn.net/160.153.138.71/ipa.75a.myftpupload.com/wp-content/uploads/2021/09/GCHU-Report-Preventable-Deaths-involving-Cycling-in-England-and-Wales.pdf)
+* an assessment of preventable [suicides](https://osf.io/ad4up/)
+* preventable deaths involving [medicines and misused drugs](https://osf.io/wq7g5/), including a study on [opioid-related](https://osf.io/ecz4r/) deaths
 
 We wrote about the data collection method, web scraping, in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0)
 

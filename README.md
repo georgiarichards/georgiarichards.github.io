@@ -13,14 +13,12 @@ We have processed the names of the deceased due to the sensitive nature of the d
 
 ## Research & dissemination 
 
-We are working on a number of research projects with this data, including:
+We wrote about the data collection method, web scraping, in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0) and are working on a number of research projects with this data, including:
 * deaths involving [anticoagulants and cardiovascular disease](https://www.medrxiv.org/content/10.1101/2021.04.28.21256272v2)
 * preventable deaths during the [covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2021.07.15.21260589v1)
 * preventable deaths involving [cyclists](https://secureservercdn.net/160.153.138.71/ipa.75a.myftpupload.com/wp-content/uploads/2021/09/GCHU-Report-Preventable-Deaths-involving-Cycling-in-England-and-Wales.pdf)
 * an assessment of preventable [suicides](https://osf.io/ad4up/)
 * preventable deaths involving [medicines and misused drugs](https://osf.io/wq7g5/), including a study on [opioid-related](https://osf.io/ecz4r/) deaths
-
-We wrote about the data collection method, web scraping, in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0)
 
 We wrote an editorial in BMJ Evidence Based Medicine to launch the series, [Coroners' Concerns to Prevent Harms](https://ebm.bmj.com/content/early/2021/01/10/bmjebm-2020-111567), which will share case reports from the database to highlight key lessons to prevent serious non-fatal and fatal harms. The published articles in the series, include:
 * harms from ingesting [alcohol-based hand sanisiter](https://ebm.bmj.com/content/26/2/65)

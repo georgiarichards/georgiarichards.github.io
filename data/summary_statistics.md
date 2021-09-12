@@ -1,7 +1,7 @@
 
 # Some summary statistics
 
-As of 09/09/2021, the judiciary
+As of 12/09/2021, the judiciary
 has uploaded 3709
 reports. 
 1416

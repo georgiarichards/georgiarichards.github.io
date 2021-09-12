@@ -25,8 +25,8 @@ Figure 2: response rates by month
 
 ![Response rates by month](./responses-over-time.svg)
 
-Figure 3: response rates by month
+Figure 3: reports by area
 
-![Response rates by month](./areas.svg)
+![Reports by area](./areas.svg)
 
 

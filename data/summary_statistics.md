@@ -16,17 +16,3 @@ of recipients of a report. In some cases, interested parties not
 initially named as respondents also respond. Due to an absence of
 machine-readable data, it is difficult to devise more informative schemas
 that remain robust.
-
-Figure 1: number of reports sent per month
-
-![Number of reports sent per month](./reports-per-month.svg)
-
-Figure 2: response rates by month
-
-![Response rates by month](./responses-over-time.svg)
-
-Figure 3: reports by area
-
-![Reports by area](./areas.svg)
-
-

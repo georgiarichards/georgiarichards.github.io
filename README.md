@@ -29,7 +29,8 @@ We wrote an editorial in BMJ Evidence Based Medicine to launch the series, [Coro
 
 ## Contributors 
 * [Georgia Richards](https://www.phc.ox.ac.uk/team/georgia-richards) 
-* [Nick DeVito](https://www.phc.ox.ac.uk/team/nicholas-devito) 
+* [Nick DeVito](https://www.phc.ox.ac.uk/team/nicholas-devito)
+* [Joshua Loo](https://github.com/octogenary)
 * [Centre for Evidence-Based Medicine](https://www.cebm.ox.ac.uk/): [Carl Heneghan](https://www.phc.ox.ac.uk/team/carl-heneghan) & [Jeffrey Aronson](https://www.phc.ox.ac.uk/team/jeffrey-aronson)
 * [EBM DataLab](https://ebmdatalab.net/): [Ben Goldacre](https://www.phc.ox.ac.uk/team/ben-goldacre)
 * [Robin Ferner](https://www.birmingham.ac.uk/staff/profiles/clinical-sciences/Ferner-Robin.aspx) 

@@ -1,10 +1,10 @@
 
 # Some summary statistics
 
-As of 08/09/2021, the judiciary
-has uploaded 3697
+As of 12/09/2021, the judiciary
+has uploaded 3709
 reports. 
-1404
+1416
 of them are unresponded to.
 2293 
 of them have received at least one response. And
@@ -19,12 +19,14 @@ that remain robust.
 
 Figure 1: number of reports sent per month
 
-<object data="https://github.com/georgiarichards/georgiarichards.github.io/blob/master/data/reports-per-month.svg" type="image/svg+xml">
-  <img src="https://github.com/georgiarichards/georgiarichards.github.io/blob/master/data/reports-per-month.png" />
-</object>
+![Number of reports sent per month](./reports-per-month.svg)
 
 Figure 2: response rates by month
 
-<object data="https://github.com/georgiarichards/georgiarichards.github.io/blob/master/data/responses-over-time.svg" type="image/svg+xml">
-  <img src="https://github.com/georgiarichards/georgiarichards.github.io/blob/master/data/responses-over-time.svg" />
-</object>
+![Response rates by month](./responses-over-time.svg)
+
+Figure 3: reports by area
+
+![Reports by area](./areas.svg)
+
+

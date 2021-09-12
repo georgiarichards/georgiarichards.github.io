@@ -20,14 +20,13 @@ that remain robust.
 Figure 1: number of reports sent per month
 
 ![Number of reports sent per month](./reports-per-month.svg)
-<img src="https://github.com/georgiarichards/georgiarichards.github.io/blob/master/data/reports-per-month.svg">
-
-<object data="https://github.com/georgiarichards/georgiarichards.github.io/blob/master/data/reports-per-month.svg" type="image/svg+xml">
-  <img src="https://github.com/georgiarichards/georgiarichards.github.io/blob/master/data/reports-per-month.png" />
-</object>
 
 Figure 2: response rates by month
 
 ![Response rates by month](./responses-over-time.svg)
-<img src="https://github.com/georgiarichards/georgiarichards.github.io/blob/master/data/responses-over-time.svg">
+
+Figure 3: response rates by month
+
+![Response rates by month](./areas.svg)
+
 

@@ -22,7 +22,7 @@ We wrote an editorial in BMJ Evidence Based Medicine to launch the series, [Coro
 ## How to cite us?
 We encourage others to reuse our code and data! If using, please cite both our publication and the repositry using the below. You can also read and reference our research publications above. 
 1. DeVito NJ, Richards GC, Inglesby P. How we learnt to stop worrying and love web scraping. Nature. 2020;85(7826):621-622. https://doi.org/10.1038/d41586-020-02558-0
-2. Richards, GC. Loo, J. DeVito, NJ. Preventable Deaths Database and Tracker: georgiarichards/georgiarichards.github.io. Github. 2021: https://doi.org/10.5281/zenodo.5675866
+2. Richards, GC. DeVito, NJ. Preventable Deaths Database and Tracker: georgiarichards/georgiarichards.github.io. Github. 2021: https://doi.org/10.5281/zenodo.5675866
 
 The DOI for this page is: [![DOI](https://zenodo.org/badge/296660825.svg)](https://zenodo.org/badge/latestdoi/296660825)
 

@@ -8,13 +8,15 @@ We have processed the names of the deceased due to the sensitive nature of the d
 ## Research and dissemination 
 We wrote about the data collection method, web scraping, in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0) and are working on a number of research projects with this data, including:
 * deaths involving [anticoagulants and cardiovascular disease](https://doi.org/10.3399/BJGPO.2021.0150)
-* deaths during the [covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2021.07.15.21260589v1)
-* deaths involving [cyclists](https://secureservercdn.net/160.153.138.71/ipa.75a.myftpupload.com/wp-content/uploads/2021/09/GCHU-Report-Preventable-Deaths-involving-Cycling-in-England-and-Wales.pdf)
+* deaths during the [covid-19 pandemic](https://doi.org/10.1136/bmjebm-2021-111834)
+* deaths involving [cyclists](https://www.gchu.org.uk/2021/09/gchu-report-preventable-deaths-involving-cyclists-in-england-and-wales/)
 * an assessment of preventable [suicides](https://osf.io/ad4up/)
 * preventable deaths involving [medicines and misused drugs](https://osf.io/wq7g5/), including a study on [opioid-related](https://osf.io/ecz4r/) deaths
+* preventable deaths in cities, including in [Cambridge](https://www.gchu.org.uk/2021/12/gchu-report-preventable-deaths-in-cambridge-and-cambridgeshire/) and [Oxford](https://www.gchu.org.uk/2021/12/gchu-report-preventable-deaths-in-oxford-and-oxfordshire/)
 
 We wrote an editorial in BMJ Evidence Based Medicine to launch the series, [Coroners' Concerns to Prevent Harms](https://ebm.bmj.com/content/early/2021/01/10/bmjebm-2020-111567), which will share case reports from the database to highlight key lessons to prevent serious non-fatal and fatal harms. The published articles in the series, include:
 * harms from ingesting [alcohol-based hand sanisiter](https://ebm.bmj.com/content/26/2/65)
+* harms from [purchasing medications online](https://ebm.bmj.com/content/27/1/60) 
 * harms from undiagnosed and untreated adverse drug reactions from [diclofenac in adolescents](https://ebm.bmj.com/content/early/2021/02/09/bmjebm-2020-111640)
 * harms from [repeated prescriptions of tramadol](https://ebm.bmj.com/content/early/2021/03/11/bmjebm-2020-111661)
 * hazards of [emollient products](https://ebm.bmj.com/content/26/3/131.full) in the presence of naked flames

@@ -6,20 +6,22 @@ The data is collected from the [Courts and Tribunals Judiciary website](https://
 We have processed the names of the deceased due to the sensitive nature of the data.  
 
 ## Research and dissemination 
-We wrote about the data collection method, web scraping, in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0) and are working on a number of research projects with this data, including:
-* deaths involving [anticoagulants and cardiovascular disease](https://doi.org/10.3399/BJGPO.2021.0150)
-* deaths during the [covid-19 pandemic](https://doi.org/10.1136/bmjebm-2021-111834)
-* deaths involving [cyclists](https://www.gchu.org.uk/2021/09/gchu-report-preventable-deaths-involving-cyclists-in-england-and-wales/)
-* an assessment of preventable [suicides](https://osf.io/ad4up/)
-* preventable deaths involving [medicines and misused drugs](https://osf.io/wq7g5/), including a study on [opioid-related](https://osf.io/ecz4r/) deaths
-* preventable deaths in cities, including in [Cambridge](https://www.gchu.org.uk/2021/12/gchu-report-preventable-deaths-in-cambridge-and-cambridgeshire/) and [Oxford](https://www.gchu.org.uk/2021/12/gchu-report-preventable-deaths-in-oxford-and-oxfordshire/)
+We wrote about the data collection method, web scraping, in *Nature* available here: ["How we learnt to stop worrying and love web scraping"](https://www.nature.com/articles/d41586-020-02558-0) and we have published several reports and studies in academic journals using this data, including: 
+1. case series of deaths involving [anticoagulants and cardiovascular disease](https://doi.org/10.3399/BJGPO.2021.0150)
+2. case series of deaths during the [covid-19 pandemic](https://doi.org/10.1136/bmjebm-2021-111834)
+3. case series of deaths from [purchasing medications online](https://ebm.bmj.com/content/27/1/60) 
+4. case report of two deaths from ingesting [alcohol-based hand sanisiter](https://ebm.bmj.com/content/26/2/65)
+5. case report of two deaths from [repeated prescriptions of tramadol](https://ebm.bmj.com/content/early/2021/03/11/bmjebm-2020-111661)
+6. case report of undiagnosed and untreated [adverse drug reactions from diclofenac in adolescents](https://ebm.bmj.com/content/early/2021/02/09/bmjebm-2020-111640)
+7. case report of an [accidental death from emollient products](https://ebm.bmj.com/content/26/3/131.full) in the presence of naked flames
+8. report on deaths involving [cyclists](https://www.gchu.org.uk/2021/09/gchu-report-preventable-deaths-involving-cyclists-in-england-and-wales/)
+9. reports on preventable deaths in cities, including [Cambridge](https://www.gchu.org.uk/2021/12/gchu-report-preventable-deaths-in-cambridge-and-cambridgeshire/) and [Oxford](https://www.gchu.org.uk/2021/12/gchu-report-preventable-deaths-in-oxford-and-oxfordshire/)
+10. An editorial to highlight the importance of PFDs and launch the [Coroners' Concerns to Prevent Harms series](https://ebm.bmj.com/content/early/2021/01/10/bmjebm-2020-111567)
 
-We wrote an editorial in BMJ Evidence Based Medicine to launch the series, [Coroners' Concerns to Prevent Harms](https://ebm.bmj.com/content/early/2021/01/10/bmjebm-2020-111567), which will share case reports from the database to highlight key lessons to prevent serious non-fatal and fatal harms. The published articles in the series, include:
-* harms from ingesting [alcohol-based hand sanisiter](https://ebm.bmj.com/content/26/2/65)
-* harms from [purchasing medications online](https://ebm.bmj.com/content/27/1/60) 
-* harms from undiagnosed and untreated adverse drug reactions from [diclofenac in adolescents](https://ebm.bmj.com/content/early/2021/02/09/bmjebm-2020-111640)
-* harms from [repeated prescriptions of tramadol](https://ebm.bmj.com/content/early/2021/03/11/bmjebm-2020-111661)
-* hazards of [emollient products](https://ebm.bmj.com/content/26/3/131.full) in the presence of naked flames
+We have a number of ongoing studies, including: 
+* A case series of [preventable suicides](https://osf.io/ad4up/)
+* A case series of [deaths involving opioids](https://osf.io/ecz4r/)
+* A case series of preventable deaths involving [medicines and misused drugs](https://osf.io/wq7g5/)
 
 ## How to cite us?
 We encourage others to reuse our code and data! If using, please cite both our publication and the repositry using the below. You can also read and reference our research publications above. 
@@ -33,7 +35,6 @@ The DOI for this page is: [![DOI](https://zenodo.org/badge/296660825.svg)](https
 * [Nick DeVito](https://www.phc.ox.ac.uk/team/nicholas-devito)
 * [Joshua Loo](https://github.com/octogenary)
 * [Centre for Evidence-Based Medicine](https://www.cebm.ox.ac.uk/): [Prof Carl Heneghan](https://www.phc.ox.ac.uk/team/carl-heneghan) & [Dr Jeffrey Aronson](https://www.phc.ox.ac.uk/team/jeffrey-aronson)
-* [EBM DataLab](https://ebmdatalab.net/): [Dr Ben Goldacre](https://www.phc.ox.ac.uk/team/ben-goldacre)
 * [Prof Robin Ferner](https://www.birmingham.ac.uk/staff/profiles/clinical-sciences/Ferner-Robin.aspx) 
 * [Dr Anthony Cox](http://anthonycox.org/about/)
 

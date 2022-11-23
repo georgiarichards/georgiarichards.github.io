@@ -35,13 +35,13 @@ The DOI for this page is: [![DOI](https://zenodo.org/badge/296660825.svg)](https
 
 ## Contributors 
 * [Dr Georgia Richards](https://www.phc.ox.ac.uk/team/georgia-richards) 
-* [Nick DeVito](https://www.phc.ox.ac.uk/team/nicholas-devito)
+* [Dr Nick DeVito](https://www.phc.ox.ac.uk/team/nicholas-devito)
 * [Joshua Loo](https://github.com/octogenary)
 * [Qingyang Zhang](https://github.com/1Qingy)
 * [Centre for Evidence-Based Medicine](https://www.cebm.ox.ac.uk/): [Prof Carl Heneghan](https://www.phc.ox.ac.uk/team/carl-heneghan) & [Dr Jeffrey Aronson](https://www.phc.ox.ac.uk/team/jeffrey-aronson)
 * [Prof Robin Ferner](https://www.birmingham.ac.uk/staff/profiles/clinical-sciences/Ferner-Robin.aspx) 
 * [Prof Anthony Cox](http://anthonycox.org/about/)
-* [Dr Richard Brittain]
+* Dr Richard Brittain
 
 ## Funders
 * This project is currently unfunded. We received two small grants in 2020-2022 from the [NIHR SPCR](https://www.spcr.nihr.ac.uk/), including an Engagement & Dissemination Grant (2020) and SeedCorn funding (2021-2022) to develop the website 

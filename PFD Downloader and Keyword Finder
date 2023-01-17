@@ -1,0 +1,97 @@
+#### Load packages of interest ####
+library(rvest)
+library(dplyr)
+library(stringr)
+library(purrr)
+
+#### Main code to download the PDFs of each case####
+#Note that the code does its best to discount the 'Responses' to the PFDs (i.e download only the actually cases), however some do fall through the cracks. 
+#This small number of remaining responses can be excluded later if they survive the word screening below. 
+
+download_pdf = function(case_links) {
+  case_page = read_html(case_links)
+  case_pdf = case_page %>% html_nodes("a") %>%  # find all links in the page
+    html_attr("href") %>% # get the url for these links
+    str_subset("esponse", negate = TRUE) %>% str_subset("\\.pdf") %>% walk2(., basename(.), download.file, mode = "wb") #find those that end in pdf only and collapse them to fit them into table nicely
+  return(case_pdf)
+}
+
+
+for(page_result in seq(from =1, to = 400, by = 1)) { #note that the 'to' value will need to be manually increased as more PFDs are added to the website
+  link = paste0("https://www.judiciary.uk/prevention-of-future-death-reports/page/",page_result,"/")
+  page = read_html(link)
+  
+  case_links = page %>% html_nodes(".card__link") %>% 
+    html_attr("href")
+  casepdf = sapply(case_links, FUN = download_pdf)
+  
+  print(paste("Page:", page_result)) #this tells you which page is being scraped, so 1) helps to show code is working and 2) tells you its progress
+}
+
+
+
+#### Running the keyword searcher on the pdfs you just downloaded ####
+library(rio)
+library(here)
+
+#### Install pdftools package from cran ####
+install.packages("pdftools")
+library(pdftools) #### Loads the package
+
+
+#### Create a list file of all the pdfs in the working directory 
+files <- list.files(pattern = ".pdf")
+
+files
+length(files)
+
+#### Create a list of all the keywords of interest - make sure to include a positive control word (in this case 'coroner'). 
+#### If the final count shows 0 instances of the positive control word, this means the pdf was unreadable, and needs to be screened by hand
+keywords <- c("keyword1", "keyword2", "coroner")
+
+length(keywords) #checks that all keywords are entered properly 
+
+#### Load packages of interest 
+
+library(dplyr)
+library(stringr)
+library(pdftools)
+
+#### Create starting word count matrix of correct dimensions
+filelength <- length(files)
+wordlength <- length(keywords)
+word_count <- seq(1,filelength*wordlength)
+dim(word_count) <- c(filelength,wordlength)
+
+head(word_count)
+
+
+#### Loops: cleaning up the text in the pdfs and searching for keywords
+for (j in 1:length(files)) {
+  P1 <- pdftools::pdf_text(pdf = files[j])  %>%
+    str_to_lower() %>%
+    str_replace_all("\\t", "") %>%
+    str_replace_all("\n", " ") %>%
+    str_replace_all("      ", " ") %>%
+    str_replace_all("    ", " ") %>%
+    str_replace_all("   ", " ") %>%
+    str_replace_all("  ", " ") %>%
+    str_replace_all("[:digit:]", "") %>%
+    str_replace_all("[:punct:]", "") %>%
+    str_trim()
+  
+  
+  for (i in 1:length(keywords)) {
+    word_count[j,i] <- P1 %>% str_count(keywords[i]) %>% sum()
+  }
+}
+
+#### Wait - allow the code enough time to run (variable depending on number of keywords/documents). You will see the '>' icon appear in the console once the code has run. 
+
+#### Visualising the word count table
+word_count <- as.data.frame(word_count)
+rownames(word_count) <- files
+colnames(word_count) <- keywords
+View(word_count)
+
+write.csv(word_count, "wordcount.csv") #make a csv file and save it in the working directory
